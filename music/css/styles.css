@@ -99,7 +99,9 @@ footer a {
     color: #4645a8;
     text-decoration: none;
 } 
-
+.social img {
+    display: inline-block;
+        padding: 4%; }
 #contact .email-link {
     color: #4645a8;
     text-decoration: none;
